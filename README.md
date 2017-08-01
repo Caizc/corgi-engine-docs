@@ -1,6 +1,6 @@
 # corgi-engine-docs
 
-Corgi Engine Documentation in Simplified Chinese, the engine is a 2D + 2.5D Platformer Solution for Unity.
+Corgi Engine Documentation in Simplified Chinese, the engine is a 2D + 2.5D Platformer Solution for Unity.
 
 Corgi Engine 的**简体中文文档**，Corgi Engine 是一款适用于 Unity 的 2D + 2.5D 平台游戏解决方案，可以在 [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/26617) 中找到。
 
